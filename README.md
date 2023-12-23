@@ -8,7 +8,7 @@
 
 #### 🔎 I’m currently learning **Node.js/Express.js, Typescript**
 
-- 👨‍💻 All of my projects are available at [http://www.imakegamez.com](http://www.imakegamez.com)
+#### All public projects are available at [my github](https://github.com/XavierTheCreator1?tab=repositories)
 
 ## 🛠️ Languages & Tools:
 <p align="center">
