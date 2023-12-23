@@ -1,6 +1,5 @@
 ## 🌎 About Me:
 #### 🌐 Frontend developer (aspiring full-stack)
-#### ✌🏾 Proud African American
 #### 🔨 Working on a [club website/dashboard](https://github.com/XavierTheCreator1/nhspc)
 #### 🔎 I’m currently learning Node.js/Express.js (Backend)
 #### 👀 All public projects are available at [my github](https://github.com/XavierTheCreator1?tab=repositories)
