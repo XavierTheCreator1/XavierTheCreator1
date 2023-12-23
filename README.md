@@ -17,5 +17,6 @@
 </p>
 
 ## ℹ️ Information:
-![](https://visitor-badge.laobi.icu/badge?page_id=XavierTheCreator1.XavierTheCreator1)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=XavierTheCreator1.XavierTheCreator1)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
