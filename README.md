@@ -18,3 +18,4 @@
 
 ## ℹ️ Information:
 ![](https://visitor-badge.laobi.icu/badge?page_id=XavierTheCreator1.XavierTheCreator1)
+[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
