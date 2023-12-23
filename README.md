@@ -8,7 +8,7 @@
 
 #### 🔎 I’m currently learning **Node.js/Express.js, Typescript**
 
-#### All public projects are available at [my github](https://github.com/XavierTheCreator1?tab=repositories)
+#### 👀 All public projects are available at [my github](https://github.com/XavierTheCreator1?tab=repositories)
 
 ## 🛠️ Languages & Tools:
 <p align="center">
