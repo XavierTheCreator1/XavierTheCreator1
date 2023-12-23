@@ -17,6 +17,6 @@
 </p>
 
 ## ℹ️ Information:
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/XavierTheCreator1?label=Follow&style=social)](https://github.com/XavierTheCreator1)
 ![](https://visitor-badge.laobi.icu/badge?page_id=XavierTheCreator1.XavierTheCreator1)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=XavierTheCreator1&show_icons=true&theme=midnight-purple)
