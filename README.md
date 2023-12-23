@@ -2,7 +2,7 @@
 
 
 <p align="center">
- <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github Logo" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
 </p>
 
 <br />
