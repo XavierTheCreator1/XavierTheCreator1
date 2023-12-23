@@ -16,7 +16,7 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## ℹ️ Information:
+## 📊 Stats:
 [![Github](https://img.shields.io/github/followers/XavierTheCreator1?label=Follow&style=social)](https://github.com/XavierTheCreator1)
 ![](https://visitor-badge.laobi.icu/badge?page_id=XavierTheCreator1.XavierTheCreator1)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=XavierTheCreator1&show_icons=true&theme=midnight-purple)
