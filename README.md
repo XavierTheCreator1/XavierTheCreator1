@@ -2,7 +2,7 @@
 
 #### A passionate frontend developer from FL, USA
 
-- 🔭 I’m currently working on [doge clicker](http://www.imakegamez.com/doge-clicker)
+#### 🔭 I’m currently working on [doge clicker](http://www.imakegamez.com/doge-clicker)
 
 - 🌱 I’m currently learning **Discord.js, Typescript**
 
