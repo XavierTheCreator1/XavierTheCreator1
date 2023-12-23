@@ -1,14 +1,3 @@
-# Hey, I'm XTCreator!
-
-## 👀 Look out for me:
-
-
-<p align="center">
- <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
-</p>
-
-<br />
-
 ## 🛠️ Languages & Tools:
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
