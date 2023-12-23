@@ -20,3 +20,4 @@
 [![Github](https://img.shields.io/github/followers/XavierTheCreator1?label=Follow&style=social)](https://github.com/XavierTheCreator1)
 ![](https://visitor-badge.laobi.icu/badge?page_id=XavierTheCreator1.XavierTheCreator1)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=XavierTheCreator1&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierTheCreator1&theme=midnight-purple)
