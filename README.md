@@ -2,7 +2,7 @@
 #### 🌐 Frontend developer (aspiring full-stack)
 #### 🔨 Working on a [club website/dashboard](https://github.com/XavierTheCreator1/nhspc)
 #### 🔎 I’m currently learning Node.js/Express.js (Backend)
-#### 👀 All public projects are available at [my github](https://github.com/XavierTheCreator1?tab=repositories)
+#### 👀 All my public projects are available at [here](https://github.com/XavierTheCreator1?tab=repositories)
 
 ## 🛠️ Languages & Tools:
 <div align="center">
