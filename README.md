@@ -1,7 +1,7 @@
 ## 🌎 About Me:
 #### 🌐 Frontend developer (aspiring full-stack)
-#### 🔨 Working on a [club website/dashboard](https://github.com/XavierTheCreator1/nhspc)
-#### 🔎 I’m currently learning Node.js/Express.js (Backend)
+#### 🔨 Working on a dashboard
+#### 🔎 I’m currently learning Svelte & SvelteKit
 #### 👀 All my public projects are available on [my GitHub profile](https://github.com/XavierTheCreator1?tab=repositories)
 
 ## 🛠️ Languages & Tools:
