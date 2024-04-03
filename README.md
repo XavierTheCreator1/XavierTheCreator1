@@ -1,5 +1,5 @@
 ## 🌎 About Me:
-#### 🌐 Frontend developer (aspiring full-stack)
+#### 🌐 Full-stack developer
 #### 🔨 Working on a dashboard
 #### 🔎 I’m currently learning Svelte & SvelteKit
 #### 👀 All my public projects are available on [my GitHub profile](https://github.com/XavierTheCreator1?tab=repositories)
