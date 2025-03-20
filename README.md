@@ -1,7 +1,7 @@
 ## 🌎 About Me:
 #### 🌐 Full-stack developer
-#### 🔨 Working on a website
-#### 🔎 I’m currently learning Svelte & SvelteKit
+#### 🔨 Working on ACE
+#### 🔎 Currently learning Python automation
 #### 👀 All my public projects are available on [my GitHub profile](https://github.com/XavierTheCreator1?tab=repositories)
 
 ## 🛠️ Languages & Tools:
