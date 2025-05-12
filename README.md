@@ -1,7 +1,7 @@
 ## 🌎 About Me:
 #### 🌐 Full-stack developer
 #### 🔨 Working on ACE
-#### 🔎 Currently learning Python automation
+#### 🔎 Currently learning PostgreSQL
 #### 👀 All my public projects are available on [my GitHub profile](https://github.com/XavierTheCreator1?tab=repositories)
 
 ## 🛠️ Languages & Tools:
